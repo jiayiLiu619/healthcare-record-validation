@@ -1,0 +1,9 @@
+row_number,physician_id,field,issue_type,value
+4,PHY003,phone,missing_required_value,
+6,PHY005,address,missing_required_value,
+10,PHY008,email,missing_required_value,
+11,PHY009,last_updated,missing_required_value,
+7,PHY006,physician_id,duplicate_physician_id,PHY006
+8,PHY006,physician_id,duplicate_physician_id,PHY006
+5,PHY004,email,invalid_email_format,dbrown-westendclinic.ca
+9,PHY007,phone,invalid_phone_format,416-555-ABCD

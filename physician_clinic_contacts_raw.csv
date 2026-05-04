@@ -1,0 +1,13 @@
+physician_id,physician_name,clinic_name,specialty,phone,email,address,last_updated,outreach_status
+PHY001,Emily Chen,Downtown Imaging Clinic,Radiology,416-555-0182,echen@downtownimaging.ca,"100 King St W, Toronto, ON",2026-04-15,Confirmed
+PHY002,Michael Patel,North York Family Health,Family Medicine,4165550199,mpatel@northyorkhealth.ca,"22 Finch Ave W, Toronto, ON",2026-04-14,Pending
+PHY003,Sarah Wong,Lakeside Medical Centre,Orthopedics,,swong@lakesidemedical.ca,"88 Queens Quay W, Toronto, ON",2026-04-13,Needs Follow-up
+PHY004,David Brown,West End Clinic,Cardiology,647-555-0177,dbrown-westendclinic.ca,"45 Bloor St W, Toronto, ON",2026-04-12,Pending
+PHY005,Amina Hassan,Scarborough Health Clinic,Internal Medicine,437-555-0110,ahassan@scarboroughclinic.ca,,2026-04-10,Confirmed
+PHY006,Robert Kim,Midtown Diagnostic Centre,Neurology,416-555-0128,rkim@midtowndiagnostic.ca,"210 Yonge St, Toronto, ON",2026-04-10,Confirmed
+PHY006,Robert Kim,Midtown Diagnostic Centre,Neurology,416-555-0128,rkim@midtowndiagnostic.ca,"210 Yonge St, Toronto, ON",2026-04-10,Confirmed
+PHY007,Jessica Martin,Etobicoke Care Group,Dermatology,416-555-ABCD,jmartin@etobicokecare.ca,"15 Dundas St W, Toronto, ON",2026-04-09,Needs Follow-up
+PHY008,Omar Ali,Toronto Specialist Clinic,ENT,289-555-0161,,"77 College St, Toronto, ON",2026-04-08,Pending
+PHY009,Laura Singh,Central Medical Group,Radiology,905-555-0144,lsingh@centralmedical.ca,"18 University Ave, Toronto, ON",,Pending
+PHY010,Kevin Zhao,Harbourfront Health,Family Medicine,416-555-0101,kzhao@harbourfronthealth.ca,"35 Bay St, Toronto, ON",2026-04-07,Confirmed
+PHY011,Nadia Green,Toronto Women's Health,OB/GYN,647-555-0189,ngreen@twhealth.ca,"120 Queen St W, Toronto, ON",2026-04-06,Confirmed
